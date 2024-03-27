@@ -1,12 +1,9 @@
 # `Style Transfer` using DiscoGAN and CycleGAN on 17flowers dataset
 
-This project was made in a team of 6 members:
-- Suryadevara Sai Aneesh (Team Lead)
+This project was made in a team of 2 members:
+- Suryadevara Sai Aneesh 
 - Tamoghno Kandar
-- Parag Bajaj
-- Ansh Thamke
-- Sanket Kumar
-- Arpit Tiwari
+
 
 ## Dataset
 
